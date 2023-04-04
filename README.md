@@ -1,5 +1,5 @@
 # Repository for Nanoloop Mobile Tutorial(s)
 
-I made this repository for the wiki, so look there:
+## Text tutorial
 
-* https://github.com/gesceap/nanoloop-mobile-tutorial/wiki
+https://github.com/gesceap/nanoloop-mobile-tutorial/wiki
