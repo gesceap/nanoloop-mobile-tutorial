@@ -1,9 +1,11 @@
-# Repository for Nanoloop Mobile Tutorial(s)
+# Nanoloop Mobile Tutorials
 
-## Text tutorial
+Here is a repository of Nanoloop Mobile Tutorials made by [Gesceap](https://gesceap.github.io/)
+
+## Text tutorial 📄
 
 https://github.com/gesceap/nanoloop-mobile-tutorial/wiki
 
-## Video tutorial
+## Video tutorial 📽️
 
 https://youtube.com/playlist?list=PLalq-kRNHSNblPJKnF7VFmCQvt02Lt7If
